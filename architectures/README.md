@@ -34,4 +34,4 @@
 
 ## Hyperparameters
 
-1. [Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer](https://openreview.net/forum?id=Bx6qKuBM2AD): Setting learning rate and batch size
+1. [Tensor Programs V: Tuning Large Neural Networks via Zero-Shot Hyperparameter Transfer](https://openreview.net/forum?id=Bx6qKuBM2AD): Setting learning rate and batch size
